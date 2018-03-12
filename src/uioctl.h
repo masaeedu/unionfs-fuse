@@ -6,6 +6,7 @@
 
 #ifndef UIOCTL_H_
 #define UIOCTL_H_
+#define __USE_LINUX_IOCTL_DEFS
 
 #include <sys/ioctl.h>
 
